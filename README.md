@@ -3,7 +3,7 @@
 # João Antônio Mangueira
 
 ### Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Adoro transformar minha preguiça em eficiência através da programação. Nada melhor do que vê um problema ser resolvido uma vez só e automatizado para melhorar a vida de todos!
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Toxicologia Pardini**
