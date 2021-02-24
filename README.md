@@ -11,6 +11,12 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, NodeJS, React Native, Typescript, PHP e Laravel.
  <br/> 💬  &nbsp; Sobre mim: Curto esportes(na verdade sou viciado), politica, livros, filmes e series.
  <br/> :email: &nbsp; Entre em contato comigo: 
- - [Linkedin](https://www.linkedin.com/in/jamangueira/) 
- - jamjs7@gmail.com [Gmail](jamjs7@gmail.com)
+ 
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jamangueira7)](https://github.com/jamangueira7)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jamangueira/)](https://www.linkedin.com/in/jamangueira/)
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+988893799&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+988893799&text=Hello!)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamjs7@gmail.com)](mailto:jamjs7@gmail.com)
 
