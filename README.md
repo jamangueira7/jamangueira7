@@ -1,4 +1,4 @@
-<img width="960px" height="190px" src="https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX">
+<img aling="right" width="auto" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 # João Antônio Mangueira
 
