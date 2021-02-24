@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**jamangueira7/jamangueira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Antônio Mangueira
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Toxicologia Pardini**
+ <br/> ❤️: &nbsp; Buscando colaborar com projetos em PHP, Laravel, React, NodeJS e React Native.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, NodeJS, React Native, Typescript, PHP e Laravel.
+ <br/> 💬  &nbsp; Sobre mim: Curto esportes(na verdade sou viciado), politica, livros, filmes e series.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamangueira/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamjs7@gmail.com)](mailto:jamjs7@gmail.com)
+
