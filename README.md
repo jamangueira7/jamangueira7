@@ -1,4 +1,4 @@
-<img aling="right" width="auto" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" width="400" height="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 # João Antônio Mangueira
 
