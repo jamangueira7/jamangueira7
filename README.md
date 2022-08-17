@@ -6,7 +6,7 @@
 Adoro transformar minha preguiça em eficiência através da programação. Nada melhor do que ver um problema ser resolvido uma vez só e automatizado para melhorar a vida de todos!
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Objective Solution**
+ :rocket:  &nbsp; Estou sem trabalho no momento.
  <br/> ❤️ &nbsp; Buscando colaborar com projetos em PHP, Laravel, React, NodeJS e React Native.
  <br/> :computer: &nbsp; Minha stack: ReactJS, NodeJS, React Native, Typescript, PHP e Laravel.
  <br/> 💬  &nbsp; Sobre mim: Curto esportes(na verdade sou viciado), politica, livros, filmes e series.
