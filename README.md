@@ -2,18 +2,33 @@
 
 # João Antônio Mangueira
 
-### Olá pessoal 👋
-Adoro transformar minha preguiça em eficiência através da programação. Nada melhor do que ver um problema ser resolvido uma vez só e automatizado para melhorar a vida de todos!
-Sou um FullStack Developer :computer: 
+### Desenvolvedor PHP e Laravel · programando desde 2009 · São Paulo
 
- -:rocket:  &nbsp; Estou sem trabalho no momento.
- - ❤️ &nbsp; Buscando colaborar com projetos em PHP, Laravel, React, NodeJS e React Native.
- - :computer: &nbsp; Minha stack: ReactJS, NodeJS, React Native, Typescript, PHP e Laravel.
- - 💬  &nbsp; Sobre mim: Curto esportes(na verdade sou viciado), politica, livros, filmes e series.
- - :email: &nbsp; Entre em contato comigo: 
- 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jamangueira7)](https://github.com/jamangueira7)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jamangueira/)](https://www.linkedin.com/in/jamangueira/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+988893799&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+988893799&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamjs7@gmail.com)](mailto:jamjs7@gmail.com)
+Ajudo empresas a evoluir sistemas que não podem parar: modernização de legados, APIs, performance, testes e rastreabilidade. Aberto a projetos autônomos.
 
+## O que eu faço
+- **Modernização de sistemas legados** e atualização de versões do Laravel
+- **APIs REST e integrações** entre sistemas
+- **Performance:** consultas SQL, rotinas pesadas e processamento assíncrono com filas
+- **Testes automatizados** e refatoração com segurança
+- **Auditoria e rastreabilidade:** logs que mostram quem mudou o quê e quando
+
+## Como eu trabalho
+Entregas pequenas e frequentes, código testado, decisões registradas e comunicação direta.
+
+## Stack
+PHP · Laravel · MySQL · Redis · Docker · Pest e PHPUnit
+Também trabalho com TypeScript, Node.js e React.
+
+## Projetos
+- [restful-api-pastry-shop](https://github.com/jamangueira7/restful-api-pastry-shop): API RESTful de uma pastelaria, em PHP
+- [ddd-mba-venda-ingresso](https://github.com/jamangueira7/ddd-mba-venda-ingresso): arquitetura Full Cycle com DDD na prática, em TypeScript
+- [laravel-react-full-stack](https://github.com/jamangueira7/laravel-react-full-stack): aplicação com Laravel e React
+- Projeto próprio em Laravel com Clean Architecture e DDD, mais de 2.100 testes automatizados e mutation testing (código privado)
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamangueira/)
+[![E-mail](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jamjs7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511988893799)
+
+Fora do código: esportes, política, livros, filmes e séries.
